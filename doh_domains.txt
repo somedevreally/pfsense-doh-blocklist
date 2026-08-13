@@ -1,22 +1,3 @@
-#
-# Description: Prevent methods to bypass your DNS, blocks encrypted DNS only
-# Description: Prevent methods to bypass your DNS, blocks encrypted DNS, VPN, TOR, Proxies.
-# Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
-# Expires: 1 day
-# Homepage: https://github.com/hagezi/dns-blocklists
-# Issues: https://github.com/hagezi/dns-blocklists/issues
-# Last modified: 12 Aug 2026 23:28 UTC
-# License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
-# Note: To ensure the bootstrap is your DNS server: Redirect standard DNS outbound (UDP 53) to an internal server. Block all DoT/DoQ (TCP/UDP 853) outbound.
-# Number of entries: 16595
-# Number of entries: 3357
-# Number of entries: 3782
-# Syntax: Domains (including possible subdomains)
-# Syntax: Domains (without subdomains)
-# Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
-# Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
-# Version: 2026.0812.2328.00
-# Version: 2026.0812.2328.53
 000000555.xyz
 0025974bf482fe84ac6a59293ae0bc0432a7b9fc.com
 003153.xyz
