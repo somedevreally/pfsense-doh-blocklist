@@ -27,13 +27,13 @@ Navigate to **Firewall > Aliases > Add**.
 #### For IP Blocking
 - **Name**: `DOH_Block_IPs`
 - **Type**: `URL Table (IPs)`
-- **URL**: `https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/doh_ips.txt`
+- **URL**: `https://raw.githubusercontent.com/somedevreally/pfsense-doh-blocklist/refs/heads/main/doh_ips.txt`
 - **Update Frequency**: `1` Day
 
 #### For Domain Blocking (Optional)
 - **Name**: `DOH_Block_Domains`
 - **Type**: `URL Table (IPs)` (pfSense will resolve these to IPs)
-- **URL**: `https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/doh_domains.txt`
+- **URL**: `https://raw.githubusercontent.com/somedevreally/pfsense-doh-blocklist/refs/heads/main/doh_domains.txt`
 - **Update Frequency**: `1` Day
 
 > **Note**: Replace `YOUR_USERNAME` and `YOUR_REPO` with your actual GitHub details.
