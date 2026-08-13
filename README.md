@@ -36,8 +36,6 @@ Navigate to **Firewall > Aliases > Add**.
 - **URL**: `https://raw.githubusercontent.com/somedevreally/pfsense-doh-blocklist/refs/heads/main/doh_domains.txt`
 - **Update Frequency**: `1` Day
 
-> **Note**: Replace `YOUR_USERNAME` and `YOUR_REPO` with your actual GitHub details.
-
 ### 2. Create Firewall Rules
 Navigate to **Firewall > Rules > LAN** and create the following **Block** rules (place them at the top of the list):
 
