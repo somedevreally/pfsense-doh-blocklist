@@ -4,7 +4,7 @@ on:
   schedule:
     # Runs every day at 03:00 UTC
     - cron: '0 3 * * *'
-  workflow_dispatch: # Allows you to run it manually
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   build:
@@ -34,14 +34,16 @@ jobs:
           curl -sSL "https://raw.githubusercontent.com/crypt0rr/public-doh-servers/refs/heads/main/dns.list" -o c_dom.txt
 
           echo "Merging and Deduplicating IPs..."
-          # Combine all IP files, remove empty lines, sort, and remove duplicates
+          # Combine IPs, remove empty lines, sort, unique
           cat h_ip_doh.txt h_ip_ns.txt c_ip4.txt c_ip6.txt | \
           grep -v '^$' | \
           sort -u > doh_ips.txt
 
-          echo "Merging and Deduplicating Domains..."
-          # Combine all Domain files, remove empty lines, sort, and remove duplicates
+          echo "Merging and Deduplicating Domains (Stripping Comments)..."
+          # Combine Domains
+          # CRITICAL: grep -v '^#' removes all lines starting with #
           cat h_dom_doh.txt h_dom_bypass.txt h_dom_only.txt c_dom.txt | \
+          grep -v '^#' | \
           grep -v '^$' | \
           sort -u > doh_domains.txt
 
@@ -56,5 +58,4 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add doh_ips.txt doh_domains.txt
-          # Only commit if there are changes
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update: Merged and deduplicated DoH lists" && git push)   
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update: Merged, deduplicated, and cleaned comments" && git push)   
