@@ -14,6 +14,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 1 # Optimization: Only fetch latest commit
 
       - name: Download and Merge Lists
         run: |
@@ -34,28 +35,32 @@ jobs:
           curl -sSL "https://raw.githubusercontent.com/crypt0rr/public-doh-servers/refs/heads/main/dns.list" -o c_dom.txt
 
           echo "Merging and Deduplicating IPs..."
-          # Combine IPs, remove empty lines, sort, unique
           cat h_ip_doh.txt h_ip_ns.txt c_ip4.txt c_ip6.txt | \
           grep -v '^$' | \
           sort -u > doh_ips.txt
 
-          echo "Merging and Deduplicating Domains (Stripping Comments)..."
-          # Combine Domains
-          # CRITICAL: grep -v '^#' removes all lines starting with #
+          echo "Merging, Cleaning, and Filtering Root Domains..."
+          # 1. Combine all domain files
+          # 2. Remove comments (#) and empty lines
+          # 3. FILTER ROOT DOMAINS ONLY: 
+          #    The regex '^[^.]+\.[^.]+$' matches strings with exactly ONE dot (e.g., google.com)
+          #    This removes subdomains (e.g., dns.google.com) to prevent pfSense bloat.
           cat h_dom_doh.txt h_dom_bypass.txt h_dom_only.txt c_dom.txt | \
           grep -v '^#' | \
           grep -v '^$' | \
+          grep -E '^[^.]+\.[^.]+$' | \
           sort -u > doh_domains.txt
 
           # Cleanup temporary files
           rm -f h_*.txt c_*.txt
 
           echo "Done. Generated files:"
-          wc -l doh_ips.txt doh_domains.txt
+          echo "IP Count: $(wc -l < doh_ips.txt)"
+          echo "Domain Count (Root Only): $(wc -l < doh_domains.txt)"
 
       - name: Commit and Push if Changed
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add doh_ips.txt doh_domains.txt
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update: Merged, deduplicated, and cleaned comments" && git push)   
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update: Merged, cleaned, and filtered root domains only" && git push)   
