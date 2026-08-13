@@ -1,0 +1,60 @@
+name: Update DoH Blocklists
+
+on:
+  schedule:
+    # Runs every day at 03:00 UTC
+    - cron: '0 3 * * *'
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Download and Merge Lists
+        run: |
+          echo "Downloading IP lists..."
+          # HaGeZi IPs
+          curl -sSL "https://hagezi-mirror.dnsbunker.org/ips/doh.txt" -o h_ip_doh.txt
+          curl -sSL "https://hagezi-mirror.dnsbunker.org/ips/nameserver.txt" -o h_ip_ns.txt
+          # crypt0rr IPs
+          curl -sSL "https://raw.githubusercontent.com/crypt0rr/public-doh-servers/refs/heads/main/ipv4.list" -o c_ip4.txt
+          curl -sSL "https://raw.githubusercontent.com/crypt0rr/public-doh-servers/refs/heads/main/ipv6.list" -o c_ip6.txt
+
+          echo "Downloading Domain lists..."
+          # HaGeZi Domains
+          curl -sSL "https://hagezi-mirror.dnsbunker.org/domains/doh.txt" -o h_dom_doh.txt
+          curl -sSL "https://hagezi-mirror.dnsbunker.org/wildcard/doh-vpn-proxy-bypass-onlydomains.txt" -o h_dom_bypass.txt
+          curl -sSL "https://hagezi-mirror.dnsbunker.org/wildcard/doh-onlydomains.txt" -o h_dom_only.txt
+          # crypt0rr Domains
+          curl -sSL "https://raw.githubusercontent.com/crypt0rr/public-doh-servers/refs/heads/main/dns.list" -o c_dom.txt
+
+          echo "Merging and Deduplicating IPs..."
+          # Combine all IP files, remove empty lines, sort, and remove duplicates
+          cat h_ip_doh.txt h_ip_ns.txt c_ip4.txt c_ip6.txt | \
+          grep -v '^$' | \
+          sort -u > doh_ips.txt
+
+          echo "Merging and Deduplicating Domains..."
+          # Combine all Domain files, remove empty lines, sort, and remove duplicates
+          cat h_dom_doh.txt h_dom_bypass.txt h_dom_only.txt c_dom.txt | \
+          grep -v '^$' | \
+          sort -u > doh_domains.txt
+
+          # Cleanup temporary files
+          rm -f h_*.txt c_*.txt
+
+          echo "Done. Generated files:"
+          wc -l doh_ips.txt doh_domains.txt
+
+      - name: Commit and Push if Changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add doh_ips.txt doh_domains.txt
+          # Only commit if there are changes
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update: Merged and deduplicated DoH lists" && git push)   
