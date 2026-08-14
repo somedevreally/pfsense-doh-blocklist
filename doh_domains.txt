@@ -39,7 +39,6 @@
 123book.info
 123book.org
 123fr.info
-123free.info
 123goproxy.com
 123hideip.com
 123inside.net
@@ -92,7 +91,6 @@
 1svpn.biz
 1svpn.com
 1svpn.mom
-1tv8q2k.online
 1utins.xyz
 1v2nmoln.com
 1vpn.app
@@ -145,7 +143,6 @@
 2poigv.xyz
 2proxy.de
 2proxyweb.com
-2pxcmgs.online
 2quickproxy.com
 2ub.top
 2vpn.help
@@ -574,7 +571,6 @@ advanceddataanalysiscenter.com
 advancedvpn.com
 aecd74796f0ff8d20255d3286ec5cd89bf989b12.com
 aecoe.xyz
-aeeesjxk.cc
 affcdn.net
 affiliatescn.net
 affntowl.com
@@ -638,7 +634,6 @@ aklrgdlj.com
 akmbjsq.com
 akpnaca.com
 akunssh.net
-akzhfsyv.cc
 alarmstat.click
 alexahub.net
 alfavpn.ru
@@ -687,12 +682,10 @@ amgwebgroup.com
 amnezia-go.com
 amnezia-vpn.help
 amnezia.org
-amoosias.site
 amopython.shop
 amosstudios.com
 amosvpn.com
 amplifyscience.cf
-amplifyz.cfd
 amplitude-go.com
 amvpn.help
 amysecure.com
@@ -714,7 +707,6 @@ andyvpn.cc
 angdwml6.com
 angelvpn.com
 angrysky.ru
-animeproxy.net
 aniscartujo.com
 anixlab.com
 anker-beton.ru
@@ -752,7 +744,6 @@ antivirusvpnprotection.com
 antpeak.com
 antycenzor.pl
 anura.pro
-anvfamo4.online
 anyip.io
 anyone.io
 anyone.tech
@@ -806,7 +797,6 @@ app707.org
 app77.org
 appconget.com
 apple-fun.ru
-apple072.jp
 applegame.xyz
 appleiosfree.com
 appleproxy.com
@@ -825,7 +815,6 @@ aptutorfinder.com
 aptvpn.org
 aqpov.xyz
 aqxors6l.com
-aracmtva.com
 arapurayil.com
 arashi.solutions
 arbvpesj.cc
@@ -857,7 +846,6 @@ ash.wf
 ash.yt
 ash6.com
 asheranztwitch.online
-ashish.money
 ashnet.cc
 ashx.net
 askdasjas.online
@@ -912,21 +900,18 @@ avo-vpn.com
 avo-vpn.help
 avo-vpn.ru
 avologin.com
-avopage.com
 avovpn-ru.com
 avovpn.biz
 avovpn.blog
 avovpn.club
 avovpn.com
 avovpn.guru
-avovpn.homes
 avovpn.live
 avovpn.lol
 avovpn.net
 avovpn.quest
 avovpn.site
 avovpnbot.info
-avovps.help
 avpn.online
 avql.net
 awabo.com
@@ -972,7 +957,6 @@ b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space
 babelsnow.com
 badrsgpr.com
 baikalvpn.ru
-bailey.today
 bajie.la
 bajiess.com
 ballbang.com
@@ -1061,7 +1045,6 @@ bebravpn-app.quest
 bebravpn-app.space
 bebravpn-ru.com
 bebravpn.app
-bebravpn.biz
 bebravpn.blog
 bebravpn.help
 bebravpn.lol
@@ -1095,7 +1078,6 @@ beibeilink.top
 belkavpn.com
 belldream.xyz
 bellproxy.com
-belongdesert.com
 beltruna.ru
 benaah.online
 benb.ir
@@ -1352,7 +1334,6 @@ bfgok.com
 bfjqye.com
 bgpnet.org
 bgvpn.com
-bgznmobo.com
 bhcci.cn
 bhkdk.cn
 bhlzibih.cc
@@ -2809,6 +2790,7 @@ edublue.org
 educationate.space
 educationdean.us
 educationforindia.com
+educationmath.org
 educationtutor.net
 edugovconnect.com
 edurocks.org
@@ -6596,6 +6578,7 @@ oqxcsuk.com
 or-milo.ru
 oraclevpn.com
 orangeproxy.net
+orangesarefruits.com
 orbitqgr7v.info
 orfjgtif.com
 origamiaerodynamics.com
@@ -10090,10 +10073,6 @@ zavento.xyz
 zaziss.com
 zbpxxoy.com
 zburger.top
-zc080.xyz
-zc081.xyz
-zc082.xyz
-zc083.xyz
 zc084.xyz
 zc085.xyz
 zc086.xyz
@@ -10132,7 +10111,6 @@ zc128.xyz
 zcssr.com
 zcvss.com
 zcvss.xyz
-zdaclann.cc
 zdn.ro
 zebravpn.com
 zelmorqa.forum
@@ -10153,7 +10131,6 @@ zentuvia.ru
 zenvorixa.xyz
 zenvpn.net
 zenxnet.com
-zeptirox.com
 zerava.ru
 zerivox.xyz
 zerlix.xyz
@@ -10194,10 +10171,8 @@ zhuiyunjiasu.com
 zhuiyunjiasu.xyz
 zhvpn.com
 ziboard.pro
-zidorex.com
 zifaner.com
 zikecgiv.com
-zinko.sbs
 ziopj8ff.com
 zippyproxy.com
 ziruel.com
@@ -10208,7 +10183,6 @@ zjog12.site
 zkcfi3szz.online
 zkjgcbxp.com
 zlpa.loan
-zlxklery.cc
 znselxsz.com
 zo0g.site
 zoihvj9m.com
@@ -10248,8 +10222,6 @@ zougloub.eu
 zpn.im
 zproxy.de
 zproxy.org
-zqazgydo.cc
-zqntvkud.cc
 zqxgfbtj.com
 zrackrmr.com
 zspeed-cdn.com
@@ -10272,7 +10244,6 @@ zylor.xyz
 zymorae.ru
 zymverto.ru
 zynqorelia.xyz
-zytjniih.cc
 zyvola.ru
 zzextyow.com
 zzzzz.click
