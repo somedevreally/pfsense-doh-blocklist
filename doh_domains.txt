@@ -175,7 +175,6 @@
 368e8a60e648be18a93a3a7c322cd6bb.top
 369.cyou
 36d275bc57ffbb02dc36d89816fa5be369d66113.com
-37-94-704-33.ir
 3870fed631d7dd50d1057b4f5415bdd916dca9f9.com
 3a0ef7502f6406decbec8ed5abf2aed35780234b.com
 3b5216f351080d69e9421f5b80e2260294e2f87f.com
@@ -576,7 +575,6 @@ advanceddataanalysiscenter.com
 advancedvpn.com
 aecd74796f0ff8d20255d3286ec5cd89bf989b12.com
 aecoe.xyz
-affcdn.net
 affiliatescn.net
 affntowl.com
 affsoft.cc
@@ -641,7 +639,6 @@ akmbjsq.com
 akpnaca.com
 akunssh.net
 alarmstat.click
-alexahub.net
 alfavpn.ru
 alflebear.cn
 alfsf4.xyz
@@ -687,7 +684,6 @@ amgwebgroup.com
 amnezia-go.com
 amnezia-vpn.help
 amnezia.org
-amopython.shop
 amosstudios.com
 amosvpn.com
 amplifyscience.cf
@@ -794,10 +790,7 @@ apivpn.io
 apk-kuailian.com
 aplusvpn.com
 apolloskeep.com
-app-klvpn.com
 app-kuailian.cn
-app-kuailianvpn.com
-app-lets.com
 app-letsvpn.com
 app707.org
 app77.org
@@ -810,14 +803,11 @@ applevpnapp.com
 application-vpnzo.com
 applied-privacy.net
 appo-kuailian.com
-appriver.online
-apps-kuailian.com
 appsdl.org
 appshost.us
 apptopay.xyz
 appx-kuailian.com
 appxiazai9.com
-apsppqyh.cc
 aptutorfinder.com
 aptvpn.org
 aqpov.xyz
@@ -935,7 +925,6 @@ axistechsupport.com
 axyno.xyz
 ayako.cc
 ayayo.vip
-aynotldh.cc
 ayu-cloud.com
 ayu-ssr.com
 ayucloud.app
@@ -955,7 +944,6 @@ azzico.com
 azzico.pw
 b-dns.se
 b-ii.com
-b16c43b3a4aba893962ec9400015aea5.top
 b19d4bf166bb2647cfaa6133b12254c84819a074.com
 b234e85045f9249ab7688778608b2742.top
 b2bwhitelabel.com
@@ -1050,9 +1038,6 @@ bebra.pw
 bebra.sh
 bebraaavpn.ru
 bebravpn-app.cyou
-bebravpn-app.fun
-bebravpn-app.homes
-bebravpn-app.quest
 bebravpn-app.space
 bebravpn-ru.com
 bebravpn.app
@@ -1341,7 +1326,6 @@ bettervpn.help
 bettingbet365.com
 bexumvpn.help
 bezlimitvpn.homes
-bfesedv.uk
 bfgok.com
 bfjqye.com
 bgpnet.org
@@ -8514,7 +8498,6 @@ tor2web.it
 tor2web.org
 tor2web.ru
 tor2web.to
-torbad.ir
 torguard.biz
 torguard.co
 torguard.com
@@ -9623,7 +9606,6 @@ whateverorigin.org
 whatsonthebox.net
 whatsuprox.com
 whiskergalaxy.com
-whiteblox.org
 whitehatvpn.com
 whitevpn.help
 whitewhalejiasu.com
