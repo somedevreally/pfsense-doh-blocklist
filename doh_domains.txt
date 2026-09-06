@@ -358,6 +358,7 @@ aboba.pro
 abpvn.org
 abrakadabra.pro
 absencebland.com
+abstergo.it
 abvpn.ru
 acdtop.com
 ace-mobile.net
@@ -1500,6 +1501,7 @@ bro-ru.org
 broadcastelement.space
 broadearn.com
 broniva.ru
+brono.cloud
 brooklyndancefestival.org
 bropay.org
 brovpn.io
@@ -1614,6 +1616,7 @@ cactusdb.net
 cactusvpn.com
 cadaeibfe.xyz
 caftjpkw.cc
+cahlen.com
 cai-yun.com
 caisseforsmithfieldschools.org
 caiyun.mom
@@ -1802,6 +1805,7 @@ choices.run
 chongjin01.icu
 chonglaicn.icu
 chopmixcook.com
+christian.moe
 christophbrem.com
 chrome-vpntype.com
 chromeclass.help
@@ -2124,6 +2128,7 @@ datatowers.net
 dated.cc
 daverotaquio.net
 daviddoesntmogaastik.com
+daw.dev
 dawninternet.com
 daxiongvpn.com
 daxiro.ru
@@ -2223,6 +2228,9 @@ dlfsfl.net
 dlrurvql.work
 dmvdriverseducation.org
 dnnenaqk.com
+dns-53.com
+dns-53.uk
+dns-53.us
 dns-free.link
 dns.expert
 dns.google
@@ -2904,7 +2912,6 @@ ezhyperlix.xyz
 ezvenih.com
 f-air.tk
 f2fenglish.org
-f3-letsvpn.com
 f32300004fb97f8fbcfb805500b8492a1808d4f2.com
 f3556fm3o524m9.com
 f3vpn.help
@@ -2913,11 +2920,11 @@ f3vpn.mom
 f3vpn.net
 f43f8e0a28eef7e7ff0abf8669dfa203f59a6776.com
 f4f.es
-f56eb41z.online
 f98f95d622c3a88f77cbfc0279298d8597b5c6c2.com
 f9b8e8aaa83a4c5916441a5c6f4ac229cf78e27b.com
 faceless.me
 fairfieldps.org
+faked.org
 fakeip.org
 falais.com
 fallin.app
@@ -2929,6 +2936,7 @@ fantagia.net
 faradns.net
 faradns2.net
 farewellkou.click
+farshidhakimy.de
 fashionstyleshop.online
 fast-fish.me
 fast789app.com
@@ -2999,7 +3007,6 @@ fastfirefly.net
 fastfireorange.com
 fastforever.net
 fastfortnite.com
-fastforward.website
 fastfotiaoqiang.com
 fastfoxapp.com
 fastfoxvpn.com
@@ -3200,7 +3207,6 @@ feisucloud.com
 feitan.cloud
 feitan.me
 feiyujiasu.net
-felqorn.lol
 felravo.ru
 feltra.ru
 feltrax.ru
@@ -3336,7 +3342,6 @@ flyzhucloud.com
 flyzhucloud.net
 fmyvipaff.cc
 fnjjn.cn
-fnkgjdcw.cc
 fo1xgp6o.com
 fobwifi.com
 focuses.cc
@@ -3394,12 +3399,10 @@ free-proxy.xyz
 free-proxyserver.com
 free-proxysite.com
 free-signal.com
-free-vpn-planet.net
 free-vpn.club
 free-vpn.mom
 free-vpn.pro
 free-vpn.xyz
-free-vpnapp.com
 free-vpnplanet-ru.net
 free-webproxy.com
 free2surfvpn.com
@@ -3443,7 +3446,6 @@ freeproxylist.online
 freeproxylist.ru
 freeproxyserver.co
 freeproxysites.co
-freeproxyunblockyoutube.com
 freeproxyupdate.com
 freeproxyweb.net
 freepuff.buzz
@@ -3462,7 +3464,6 @@ freevoipapp.com
 freevpn-planet.net
 freevpn.cloud
 freevpn.com
-freevpn.live
 freevpn.me
 freevpn.one
 freevpn.org
@@ -3542,7 +3543,6 @@ fynexis.ru
 fyntra.ru
 fyvp8joh.com
 fyzlzdyo.com
-fyzvsgcn.cc
 fzvip.cc
 g01-cn.club
 g01.info
@@ -3567,12 +3567,10 @@ gamingssh.com
 gammesfeld.eu
 garage-van.com
 gardenparty.me
-gas.education
 gatcha.org
 gatern.info
 gbbyeprd.com
 gbupm5ik.com
-gclouddns.com
 gcsdfgdt.com
 gcvipaff.cc
 gdhsh04.site
@@ -3659,7 +3657,6 @@ getsurfboard.org
 gettwifi.com
 getuserapp.net
 getusvpn.com
-getverdant.xyz
 getvpn.name
 getvpngn.com
 getvpnx.com
@@ -3703,6 +3700,7 @@ glados.rocks
 glados.space
 glados.vip
 glebus.pro
+glf.wtf
 glintapp.org
 glitch.zone
 glitchvpn.app
@@ -3714,6 +3712,7 @@ globalssh.net
 globaltrx.com
 globalyun.cc
 glock.my
+gloom.nexus
 glseries.net
 glype.com
 gmodsandbox.com
@@ -3782,7 +3781,6 @@ gopcjsq.com
 gopjbvpn.com
 goproxy.asia
 gossr.pw
-gostarlight.xyz
 gotoproxy.com
 gotrusted.com
 gougoujiasu.com
@@ -3811,7 +3809,6 @@ grass.io
 grassglue.org
 gratisproxy.nl
 gratisvpn.com
-grave.run
 graveofhope.ru
 gravityfence.com
 greatdeal.cc
@@ -3880,7 +3877,6 @@ gusvpn.help
 guzesqdro.dev
 gvcbwwq.com
 gvirabi.com
-gvkyvroi.cc
 gvvip1.xyz
 gwgvxswc.com
 gxalihcr.cc
@@ -3888,7 +3884,6 @@ gxugual.com
 gyattmath.buzz
 gyrfalconvpn.mom
 gztech.me
-gzyabio.cn
 h-vpn.org
 h0w.cc
 h4i4fl66.com
@@ -3904,6 +3899,7 @@ haffnetworkmm.com
 haffnetworkot.com
 haffnetworkpr.com
 haffnetworktt.com
+hahnjo.de
 hahwugqe.com
 hai913.com
 hai915.com
@@ -3913,7 +3909,7 @@ haita.io
 haita.link
 haita.org
 haita.us
-hakoda.wtf
+haka.se
 hamsconfederal.top
 hanniel.tech
 hans-kuailian.com
@@ -4545,6 +4541,7 @@ intego.com
 interdoge.cfd
 interncloud.info
 internetcloak.com
+internetpositif.id
 interssh.com
 intertop.link
 intervpn.com
@@ -4954,6 +4951,7 @@ kideqf.com
 kidsroboticsbkk.com
 kihn.org
 kilabit.info
+kimiblock.top
 kinavo.ru
 kingdomhearts.me
 kingyt6761.cc
@@ -5504,6 +5502,7 @@ linuxcross.com
 lionssh.com
 lipcomedy.com
 liquidvpn.com
+listo.click
 listvpn.net
 lite-vpn.help
 litebrowser.net
@@ -5641,6 +5640,7 @@ maincloud.ir
 mainlandvpnapp.com
 mainssh.com
 maintainbrain.us
+maitrekuc.fr
 malanser.ru
 maleyu.org
 mallocapp.com
@@ -5657,6 +5657,7 @@ maplecadence.com
 mapspublications.us
 maqgie.xyz
 maradns.org
+marasov.id
 marko1oko.online
 marnovx.xyz
 marslink.cc
@@ -6223,7 +6224,6 @@ nexitallyjc.com
 nexitallysafe.com
 nexotari.hair
 nexravom.hair
-nextdns.io
 nextlink.shop
 nexusapi.website
 nexusproxy.shop
@@ -6243,6 +6243,7 @@ niazpro.ir
 nice-autosurf.com
 nicehash.com
 nickcan.xyz
+nicolas-dorriere.fr
 nicsezcheckfbi.gov
 nilvora.xyz
 nimbleway.com
@@ -6519,6 +6520,7 @@ onlineproxy.io
 onlineproxy.us
 onlinetutorials.info
 onlinevpn.app
+onlyfriends.info
 onlyrabbit02.sbs
 onyx7.com
 oo4eetltmoq47v.online
@@ -6765,6 +6767,7 @@ piaproxy.net
 piaservers.net
 picknife.org
 picstash.org
+piekacz.pl
 piglet.icu
 pilor.net
 pilvoro.ru
@@ -6927,6 +6930,7 @@ pqmrbzwq.com
 pqov.top
 pr-kuailian.com
 pr0xy.com
+practicallyunhackable.com
 prairievistamiddle.org
 pramiro.ru
 pranzor.ru
@@ -7328,6 +7332,7 @@ qodami.com
 qolfgv.xyz
 qpadf.com
 qqmcfw.tech
+qrtz.club
 qrykgvdh.com
 qstam.ru
 qtrwplkdz.com
@@ -7488,6 +7493,7 @@ riftvpn.ai
 rikanvex.study
 rilmavo.ru
 rimavet.baby
+rin.sh
 ringvpn.com
 rinki.ink
 rinki.live
@@ -7799,6 +7805,7 @@ shelljacket.us
 shendengjiasu.com
 shflora.com
 shihui992.com
+shijiu.asia
 shipboard.ir
 shitblocker.com
 shiva-app.io
@@ -7868,6 +7875,7 @@ skibiditoi.lat
 skilledconfine.com
 skipdns.link
 skipns.com
+skuld.jp
 skycoin.com
 skydragoness.com
 skyfireworld.com
@@ -8233,6 +8241,7 @@ syiscool.cool
 symlexvpn.com
 synapsetechllc.com
 szmbkf5rsqiidboo6.online
+szpadel.ovh
 szvy.xyz
 szyrzyk.pl
 t-dz.com
@@ -9009,7 +9018,6 @@ vectroproxy.com
 veeejiasu.com
 veepn.com
 veepn.org
-veilhub.ir
 velara.buzz
 velara.cc
 velmoritax.xyz
@@ -9686,7 +9694,6 @@ wwrubljx.com
 www-kuaifan.cn
 www-letsvpn-app.com
 www-letsvpn.com
-wwwl0.ir
 wxxs290.com
 wyrhub.xyz
 wyx.cloud
@@ -9956,7 +9963,6 @@ yd59j32r.com
 yd6n63ptky.com
 ydtreard.com
 ydyasrhc.com
-yekaterinburg.ir
 yellowproxy.net
 yemaovp.com
 yenger84.com
