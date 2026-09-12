@@ -3561,6 +3561,7 @@ galaxyvipaff01.cc
 galtvpn.com
 galxy.autos
 gameproxy.org
+gamerpr.cfd
 gamers-nor.com
 gamingssh.com
 gammesfeld.eu
@@ -5693,6 +5694,7 @@ mduyd.cn
 media.network
 mediahint.com
 mediavpn.com
+megaconnect.click
 meganerd.nl
 megaproxy.com
 megaproxylist.net
@@ -6611,6 +6613,7 @@ papervpn.io
 papervpn.top
 par-vino.ru
 paradise-human.shop
+parsaw1.cyou
 parsazr.ir
 partmo5.xyz
 partyvpn.com
@@ -6965,6 +6968,7 @@ proxiware.com
 proxking.com
 proxpn.com
 proxssl.com
+proxtstar.live
 proxtube.com
 proxy-123.com
 proxy-anywhere.com
@@ -7645,7 +7649,6 @@ selenite.cc
 selfadserver.com
 seligmania-online.com
 selsby.info
-sentinel.com
 senviro.ru
 seona.vip
 seppeyd.space
@@ -8367,7 +8370,6 @@ topiran.baby
 topman8848.com
 toppal.tech
 toppeopleverse.top
-topproxt.asia
 topsecure.info
 topspeedvpn.homes
 topstudio.one
@@ -9396,7 +9398,6 @@ weariron.com
 weather-doc.com
 weathercloudapp.com
 web-kuailian.cn
-web-kuailian.com
 web-kuailian.net
 web-letsvpn.org
 web-proxy.org
@@ -9424,7 +9425,6 @@ webproxy.to
 webproxy.us
 webproxyusa.com
 webshare.io
-webshots.world
 websitebypass.com
 websiteproxy.net
 websiteunblock.net
@@ -9490,7 +9490,6 @@ wikivpn.org
 wiksa.com
 wildflower-bistro.com
 wilway.christmas
-wilway.today
 wimorala.ru
 windowbook92.com
 windowcar92.com
@@ -9527,7 +9526,6 @@ wmgbrhwo.cc
 wmqbjq.cn
 wnuxuhdj.com
 wobti.com
-wof.wtf
 woglizmh.com
 wokasn.com
 wolun444.com
@@ -9547,7 +9545,6 @@ workkidney.com
 workproxy.net
 workstudyplay.com
 world-vpn.org
-worldgravityapp.com
 worldnod.com
 worldnod.top
 worldunlocked.org
@@ -9594,7 +9591,6 @@ xaltrio.ru
 xalvino.ru
 xandoriya.ru
 xantiro.ru
-xantrop.xyz
 xanvero.ru
 xarra.ru
 xaws40.cn
@@ -9667,10 +9663,8 @@ xjumper.com
 xka2gd.xyz
 xkboxvpn.com
 xkvtuqep.com
-xkwxiufq.cc
 xlhtmuoy.com
 xlink.wiki
-xlppqrie.cc
 xmfvpn.com
 xmgjsd.com
 xmrth.com
@@ -9770,13 +9764,11 @@ xn--zwwa296b.com
 xolvento.ru
 xomverta.ru
 xonlrnrujxbx.com
-xorbiadns.com
 xorniva.ru
 xortbv.cc
 xorvila.ru
 xozoquat.com
 xperienc.com
-xpombld.cn
 xpyyezoi.com
 xqnetwork.ir
 xr6rpdmc.com
@@ -9803,7 +9795,6 @@ xwvvwnip.com
 xxcloud.xyz
 xxvv.loan
 xyherb.xyz
-xzmkdvpql.com
 xzpjmrpb.com
 y05qwm.cn
 y2fast.com
@@ -9881,7 +9872,6 @@ yj-15.net
 yj-17.net
 yj-19.net
 yj-20.net
-yjfmrev.cn
 ykdnrpe.com
 yksjmwjf.com
 ylink.info
@@ -9951,7 +9941,6 @@ yunfanjiasu.com
 yunitex.xyz
 yuntu.network
 yuntu.pro
-yuvelirtut.website
 yuyuproxy.com
 ywctedke.com
 ywtm5afvcjjihelual.online
@@ -10071,11 +10060,9 @@ zgproxy.com
 zgproxy.org
 zgvnp.site
 zgvnpn.site
-zgvpn.fit
 zgvpn.net
 zgvpn.org
 zgvvpn.site
-zh-klvpn.com
 zh-kuailian.cn
 zhangdong25.cn
 zhengkaiyun.top
@@ -10099,7 +10086,6 @@ zippyproxy.com
 ziruel.com
 zivpn.com
 ziyun.cyou
-zjavr.cn
 zjog12.site
 zkcfi3szz.online
 zkjgcbxp.com
@@ -10122,7 +10108,6 @@ zoogmail.site
 zoogs-hub.site
 zoogs.site
 zoogvpn.com
-zoogvpn.fit
 zoogvpn.fun
 zoogvpn.help
 zoogvpn.net
@@ -10147,7 +10132,6 @@ zqxgfbtj.com
 zrackrmr.com
 zspeed-cdn.com
 zt.al
-ztpvqxcr.cc
 zttqwgui.com
 ztv.su
 ztz-100.net
