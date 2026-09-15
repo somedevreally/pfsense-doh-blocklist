@@ -3419,6 +3419,7 @@ freedome-vpn.net
 freedomproxy.com
 freeeuroproxy.com
 freehiddenvpn.gq
+freeinternet.skin
 freelux.world
 freemicvpn.com
 freemybrowser.com
@@ -3561,7 +3562,6 @@ galaxyvipaff01.cc
 galtvpn.com
 galxy.autos
 gameproxy.org
-gamerpr.cfd
 gamers-nor.com
 gamingssh.com
 gammesfeld.eu
@@ -8370,6 +8370,7 @@ topiran.baby
 topman8848.com
 toppal.tech
 toppeopleverse.top
+topproxt.asia
 topsecure.info
 topspeedvpn.homes
 topstudio.one
