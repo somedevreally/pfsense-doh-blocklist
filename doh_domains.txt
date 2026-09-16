@@ -92,6 +92,7 @@
 1k3j1blg.com
 1ldlv4m7.com
 1proxy.de
+1proxy.in
 1svpn.biz
 1svpn.com
 1svpn.mom
@@ -615,6 +616,7 @@ ajabk.cn
 ajh.academy
 ajh.boats
 ajh.college
+ajh.quest
 ajh.wtf
 ajhmath.org
 ajhsvault.lat
@@ -660,6 +662,7 @@ alohabrowser.com
 alohaprofile.com
 alon93rus.ru
 alphabr.online
+alphabrowser.xyz
 alphagame.co
 alphavpn.info
 alternatepath.net
@@ -700,6 +703,7 @@ andrey93rus.ru
 androidconnect.fyi
 androidruleonline.xyz
 androidshopweb.rocks
+androvpn.com
 andy123123.xyz
 andyvpn.cc
 angdwml6.com
@@ -826,6 +830,7 @@ ark-vpn.com
 ark.to
 arnsvr.site
 arrives.run
+artclass.lol
 artclass.site
 artsineducation.net
 aryttnis.cc
@@ -857,6 +862,7 @@ astrill2.com
 astrillcn.com
 astrilldownloads.com
 astrilljiasu.com
+astrilljsvpn.com
 astrillvpnapp.com
 astroutercn.com
 astrovpn.co
@@ -954,6 +960,8 @@ b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space
 babelsnow.com
 badrsgpr.com
 baikalvpn.ru
+baiyueguanggw.com
+baiyueguangjc.com
 bajie.la
 bajiess.com
 ballbang.com
@@ -1337,6 +1345,7 @@ bhupygnj.com
 bi-tree.ru
 bichvpn.ru
 bienna.ru
+bigbang.pics
 bigdih.shop
 bigdihuptheahh.buzz
 bigma.org
@@ -1398,6 +1407,7 @@ blncapi.com
 block-only-if-you-have-a-small-pee-pee.io
 blocka.net
 blockaway.net
+blockdns.com
 blockedsiteaccess.com
 blockless.com
 blockmesh.xyz
@@ -1542,6 +1552,7 @@ btc4animals.com
 btcloud.xyz
 btguard.com
 btjpydcn.com
+btunnel.in
 btxqplrw.com
 buaswhxr.com
 bubbleset.com
@@ -1701,6 +1712,7 @@ cdn02-hgwznwv3-cq.top
 cdn02-jnuakg5u-cjl.top
 cdn02-zq39azth-huojian.top
 cdn03-t1vtq2zs-huojian.top
+cdnaccelerate.com
 cdnaccelerate.site
 cdnaccelerate.space
 cdnaccelerate.xyz
@@ -2054,6 +2066,7 @@ cunybr.com
 curd.io
 curser.dev
 customudp.site
+cv-unfiltered.xyz
 cv2.at
 cv2.cool
 cv2.fun
@@ -2389,6 +2402,7 @@ dontblockme.org
 dontfilter.us
 donwloda.com
 doo2.net
+doomshadow.com
 doonion.com
 doorbook92.com
 doorcar92.com
@@ -3419,7 +3433,6 @@ freedome-vpn.net
 freedomproxy.com
 freeeuroproxy.com
 freehiddenvpn.gq
-freeinternet.skin
 freelux.world
 freemicvpn.com
 freemybrowser.com
@@ -4592,6 +4605,7 @@ iqbbhmzh.com
 iqia.org
 irckyb7t9a.com
 iriczcsx.com
+irluxcars.site
 ironsocket.com
 irrelevant.cc
 iscsihost.org
@@ -6968,7 +6982,6 @@ proxiware.com
 proxking.com
 proxpn.com
 proxssl.com
-proxtstar.live
 proxtube.com
 proxy-123.com
 proxy-anywhere.com
@@ -7070,6 +7083,7 @@ proxylokky.com
 proxymaster.help
 proxymaster.me
 proxymesh.com
+proxymint.click
 proxymist.com
 proxymonster.sale
 proxynova.com
@@ -8370,7 +8384,6 @@ topiran.baby
 topman8848.com
 toppal.tech
 toppeopleverse.top
-topproxt.asia
 topsecure.info
 topspeedvpn.homes
 topstudio.one
