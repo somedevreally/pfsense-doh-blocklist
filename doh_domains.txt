@@ -1397,6 +1397,7 @@ blewpass.com
 blitef.com
 blncapi.com
 block-only-if-you-have-a-small-pee-pee.io
+blockaway.io
 blockaway.net
 blockdns.com
 blockedsiteaccess.com
@@ -4521,6 +4522,7 @@ intertop.link
 intervpn.com
 intl-alliance.com
 inunison.net
+invisiproxy.com
 invisv.com
 iohnhbly.com
 iomlelco.com
@@ -4571,6 +4573,7 @@ iqbbhmzh.com
 iqia.org
 irckyb7t9a.com
 iriczcsx.com
+irluxcars.site
 ironsocket.com
 irrelevant.cc
 iscsihost.org
@@ -5133,6 +5136,7 @@ koolyunfannpv.com
 kopcm.ru
 korannarrow.com
 korzhov.dev
+kostyanchekloh.lol
 koxy.de
 koyeb.app
 kproxy.asia
@@ -5572,6 +5576,7 @@ luppa.loan
 luqkhccn.com
 lurk.info
 luxerno.xyz
+luxuryman.sbs
 luzubu.com
 lvchavpn.click
 ly-1.net
@@ -5907,7 +5912,6 @@ mont-riv.ru
 monthlyssh.net
 montriv.ru
 monvpn.com
-moonmy.world
 morbitzer.de
 morelogin.com
 morenzo.ru
@@ -7070,6 +7074,7 @@ proxyshare.network
 proxysheep.com
 proxysite.cc
 proxysite.com
+proxysite.one
 proxysite.page
 proxysite.pro
 proxysite.site
@@ -9350,6 +9355,7 @@ webproxy.com
 webproxy.mobi
 webproxy.online
 webproxy.us
+webproxysite.com
 webproxyusa.com
 webshare.io
 websitebypass.com
@@ -9395,6 +9401,7 @@ whateverorigin.org
 whatsonthebox.net
 whatsuprox.com
 whiskergalaxy.com
+whiteblox.org
 whitehatvpn.com
 whitevpn.help
 whitewhalejiasu.com
