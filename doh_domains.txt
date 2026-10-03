@@ -664,7 +664,6 @@ amnezia-vpn.help
 amnezia.org
 amosstudios.com
 amosvpn.com
-amplifyscience.cf
 amplitude-go.com
 amvpn.help
 amysecure.com
@@ -765,14 +764,12 @@ apiget.ru
 apigoogle.eu
 apiserv.org
 apivpn.io
-apk-kuailian.com
 aplusvpn.com
 apolloskeep.com
 app-kuailian.cn
 app-letsvpn.com
 app707.org
 app77.org
-appconget.com
 apple-fun.ru
 applegame.xyz
 appleiosfree.com
@@ -780,11 +777,9 @@ appleproxy.com
 applevpnapp.com
 application-vpnzo.com
 applied-privacy.net
-appo-kuailian.com
 appsdl.org
 appshost.us
 apptopay.xyz
-appx-kuailian.com
 appxiazai9.com
 aptutorfinder.com
 aptvpn.org
@@ -803,14 +798,12 @@ areas.fun
 argovpn.com
 aridia.ru
 arisaka.io
-ark-vpn.com
 ark.to
 arnsvr.site
 arrives.run
 artclass.lol
 artclass.site
 artsineducation.net
-aryttnis.cc
 aryuyjun.cc
 arywlunqlwvxxtoxgvm.online
 as-stats.com
@@ -831,6 +824,7 @@ aspheric-zombies.club
 assemblymenu.xyz
 astarvpn.com
 astarvpn.download
+astravpn.xyz
 astrill-cn.com
 astrill.com
 astrill.org
@@ -957,7 +951,6 @@ bartvpn.com
 base99.com
 basildo.beer
 bastlipv.com
-batch.today
 bathshop.ir
 batvpn.com
 batvpn.top
@@ -980,7 +973,6 @@ beansandchips.com
 beapasswpn.com
 bearvpn.com
 bearvps.mom
-beastacademy.gq
 bebasid.com
 bebr.loan
 bebra-official.lol
@@ -1233,7 +1225,6 @@ bestquanqiu.com
 bestquanwang.com
 bestquickq.com
 bestrainbowsix.com
-bestraq.ru
 bestriot.com
 bestrocket.net
 bestrockstar.com
@@ -1351,7 +1342,6 @@ bjcgbc.cn
 bjoqdfsa.com
 bkbvkizb.com
 bkfpidjc.com
-bkptusjl.cc
 blackbettyclothing.com
 blackbull.news
 blacklogic.com
@@ -1397,10 +1387,8 @@ blufvpn.com
 blujaysbots.com
 blurpath.com
 bmetrics.org
-bmjhelit.cc
 bmjwk.cn
 bmksmmb.cn
-bmlfhjeq.cc
 bn0dghrx.com
 bnj0d3r2.com
 bobra.bid
@@ -1408,26 +1396,21 @@ bobstrecansky.com
 bocaplanet.com
 boccc.co
 boda12306.com
-bodghrjv.cc
 bodimozf.com
 bodvpn.com
 bog-bot.cfd
 bogbot.shop
 boi9osyg1uwtyafn.com
-bojdumlx.cc
 bolehvpn.net
 bolt-vpn.com
 bolt2s.xyz
 boltrena.ru
-boltrix.ru
 boltunblocker.com
 boltvpn.org
 booeuu.com
 booiuu.com
 bookbook92.com
 bookcar92.com
-bookerndy.com
-booket.cf
 bookphone92.com
 boomproxy.com
 boomtunnel.com
@@ -1440,7 +1423,6 @@ boostnet4.com
 boostqz.com
 boostvpn.top
 boowuu.com
-borbgbfx.cc
 borderlessvpn.io
 bore.pub
 boredomarcade.xyz
@@ -3491,6 +3473,7 @@ fumarkel.com
 fumatek.baby
 funknetwork.com
 funnyaisite.org
+funsol.cloud
 funti.cc
 funtikspb.ru
 furoen.ru
@@ -3690,6 +3673,7 @@ gocheapfqvpn.com
 godzillo.link
 goearthpro.link
 gofastdirect.top
+gofastvpn.com
 goflyvpn.com
 gogocloud.cyou
 gogogolets.com
@@ -4346,6 +4330,7 @@ hulimar.baby
 humorvalid.com
 hunitek.my
 huntllcx.cn
+huntvpn.dev
 huojian-cloudflare.com
 huojian.homes
 huojian.me
@@ -4548,6 +4533,7 @@ iqbbhmzh.com
 iqia.org
 irckyb7t9a.com
 iriczcsx.com
+irluxcars.site
 ironsocket.com
 irrelevant.cc
 iscsihost.org
@@ -5622,6 +5608,7 @@ mathrules.dev
 mathwonders.xyz
 matorian.pro
 matrixvpn.net
+matrixxx.top
 mavotek.xyz
 mavrex.ru
 maxfong.cc
@@ -7869,6 +7856,7 @@ ssytnik.de
 stable-vpn.com
 stackfront.xyz
 stage-ngrok.com
+star-vpn.shop
 star01-cmzdkkce.top
 star02-v9gthntc.top
 stardream.co
@@ -7882,6 +7870,7 @@ starvpn.com
 starvpn.help
 starvpnapp.com
 starwayvpn.com
+starwayvpn.xyz
 statemindpath.com
 statetestingstudies.com
 staticnetcontent.com
@@ -8811,7 +8800,6 @@ vepen.click
 vepenot.am
 vepenot.app
 veraris.online
-veraspeed.ir
 verbix.xyz
 verdis.space
 verifica.live
@@ -9137,6 +9125,7 @@ vpnplus.help
 vpnplus.to
 vpnpremium.lol
 vpnpremium.mom
+vpnpremiums.com
 vpnprice.help
 vpnprivacy.com
 vpnprivacy.services
