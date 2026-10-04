@@ -1431,14 +1431,11 @@ botclassic.com
 botvpn.help
 botvpntype.com
 bouquetberlin.org
-bpn.wtf
 bqinoiq.com
 bqkqixr.com
 brafnex.ru
 brakeeagle.com
 bramka-proxy.pl
-bran-ex.ru
-brastil.ru
 bratokvpn.com
 bravedns.com
 bravetrait.com
@@ -1455,17 +1452,13 @@ bringover.net
 bringyour.com
 brinkoutside.com
 brisk-moth.com
-britannica.gq
 britishproxy.com
 britvpn.io
-brivaro.ru
 brmtr.org
 bro-ru.com
 bro-ru.net
 bro-ru.org
-broadcastelement.space
 broadearn.com
-broniva.ru
 brooklyndancefestival.org
 bropay.org
 brovpn.io
@@ -1527,7 +1520,6 @@ butterfing.org
 buuba.bid
 buunss.com
 buy-express-vpn.asia
-buyabrainrot.shop
 buyastrill.com
 buyearthweb.net
 buypersonalproxy.com
@@ -1547,7 +1539,6 @@ bxvpn.top
 bxvpn1.top
 bxvpn2.top
 bxvpn5.top
-bxzgwrgd.cc
 byebyedpivpn.help
 byevpn.help
 byewall.com
@@ -1565,7 +1556,6 @@ bytelixir.com
 bytzvpn.com
 bzfnngeb.com
 c-dns.com
-c-kuailian.com
 c48afdb0a50939a19a1eb477fa3da3be2aa67e1d.com
 c5325786f0985dd8d1844a9df52874195ecd2887.com
 c6gj-static.net
@@ -1581,7 +1571,6 @@ cachezone.net
 cactusdb.net
 cactusvpn.com
 cadaeibfe.xyz
-caftjpkw.cc
 cai-yun.com
 caisseforsmithfieldschools.org
 caiyun.mom
@@ -1604,12 +1593,8 @@ candytally06.vip
 candytally07.vip
 candytally08.vip
 candytally09.vip
-canieep.org
-canisleeppls.dev
 canlite.org
 cantfindme.org
-canuletmeeep.run
-canvas.mom
 canvasarts.org
 capybaravpn.app
 carbook92.com
@@ -1643,9 +1628,6 @@ cave59.com
 cave99.com
 caveaa.com
 cavecn.com
-caveofmythicalseals.dev
-caveofmythicalseals.life
-caveofmythicalseals.xyz
 caxb1yr7zzggup07pzesgqr.online
 caytitf.com
 cb.gripe
@@ -1758,8 +1740,6 @@ chinagrows.com
 chinapeopleinfo.com
 chinapolymetallic.com
 chinastoryshop.com
-chinese-kl.com
-chinese-lets.com
 chips.run
 chjwhpcwibbsoz.xyz
 chkttzrt.com
@@ -1789,7 +1769,6 @@ ciscossh.com
 citizenvpn.com
 citrik.design
 civiclearncenter.com
-civilizationmars.org
 cj1k.net
 cjagirmnv8ukgdscrqnd6b9ui.online
 cjwhahqi.com
@@ -1829,7 +1808,6 @@ cloaker.ca
 cloaker.us
 cloakpoint.com
 cloakvpn.com
-clorvan.ru
 closetruth.date
 cloud25075.info
 cloudbenders.fun
@@ -1843,7 +1821,6 @@ cloudflaredns.com
 cloudflareresolve.com
 cloudflingcdn.com
 cloudlogcdn.com
-cloudnetcdn.com
 cloudnetwork.pro
 cloudnymous.com
 cloudnz.cc
@@ -1856,7 +1833,6 @@ cloudtimecdn.com
 clouduhtpv.info
 cloudvpn.ai
 cloudvpn.pro
-clovian.ru
 clvsfeew.com
 cmsone.cc
 cmvf8hv7.com
@@ -1865,12 +1841,9 @@ cn-accelerator.site
 cn-access.website
 cn-app-kuailian.com
 cn-klvpn.com
-cn-kuailian.cn
 cn-letsvpnapp.com
 cn-nord.info
-cn-pc-kuailian.com
 cnelectrictools.com
-cns-kuailian.cn
 cns-kuailian.com
 cns-kuailian.net
 cnusxumyiiw.xyz
@@ -1881,12 +1854,9 @@ cober-sky.pro
 cocoombr.com
 cocoproxy.com
 codarka.com
-codeacademy.gq
 codecrafterssoft.com
 codegooglehub.com
 codesbox.net
-codewars.cf
-codewars.gq
 coffeedaybreak.com
 cogahouse.com
 coinsite.info
@@ -3745,6 +3715,7 @@ gqwtlaz.com
 gqxzrqicuqjbjazrzmz4cjlc.online
 graef.in
 graltexo.com
+gram.blog
 grammarhelpers.com
 grandcinemachat.org
 grandjuniperpark.com
@@ -5608,7 +5579,6 @@ mathrules.dev
 mathwonders.xyz
 matorian.pro
 matrixvpn.net
-matrixxx.top
 mavotek.xyz
 mavrex.ru
 maxfong.cc
@@ -7408,6 +7378,7 @@ rungame20.com
 runnervamp.net
 rusa.loan
 rushproxy.com
+rushproxy.io
 rusnet-android.click
 rustynailspace.com
 rusuojiasu.net
