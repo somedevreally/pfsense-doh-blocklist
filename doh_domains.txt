@@ -1910,9 +1910,6 @@ corivex.xyz
 corsproxy.io
 cosmohacker.space
 couplesow.com
-coursera.cf
-coursera.gq
-courtesytell.life
 coverproxy.com
 covertheorange.com
 covertproxy.com
@@ -1931,8 +1928,6 @@ createssh.net
 creationlong.org
 creativechurchnetwork.com
 creativefish.org
-credibilityfairy.org
-crevio.ru
 criarssh.com
 crieewy.cn
 crimson-latch.com
@@ -1941,7 +1936,6 @@ crossorigin.me
 crosswall.cc
 crownproxy.com
 crownrealty.org
-croxproxy.online
 croxy-proxy.com
 croxy.com
 croxy.network
@@ -1955,7 +1949,6 @@ croxyproxy.net
 croxyproxy.rocks
 croxyproxy.vip
 croxyproxy1.id
-croxyproxyid.com
 croxyproxys.com
 crunchymunchy.space
 crushus.com
@@ -1966,7 +1959,6 @@ crypto2049.store
 cryptostorm.is
 cryptovpn.com
 cryptroute.com
-cskl119.xyz
 csqpud.pics
 ct-access.pro
 ct-vpn.com
@@ -1996,7 +1988,6 @@ cv2.moe
 cv2.pro
 cv2.pw
 cv2.us
-cvjcxuzi.cc
 cxjxtnjdziinxq.xyz
 cybear.website
 cybearvpn.com
@@ -2015,7 +2006,6 @@ cyneros.com
 cynntex.fun
 cyphervpn.pro
 cyphyl.com
-czkaite88.xyz
 czojzklu.com
 czrnavdk.com
 czwrlqpta.com
@@ -2038,16 +2028,13 @@ daishujiasu.club
 daishujiasuapp.com
 daneshvardost.com
 dansereau.xyz
-darikon.my
 dark-proxy.ru
 darkfat.com
 darknet.to
 darkweb.cyou
-darvilo.ru
 dasfca.com
 dashi.mom
 dashuai.us
-dastrix.ru
 databay.com
 datacloudplatform.org
 datadispatch.xyz
@@ -2066,7 +2053,6 @@ daverotaquio.net
 daviddoesntmogaastik.com
 dawninternet.com
 daxiongvpn.com
-daxiro.ru
 daydayvpn.com
 daydreamx.pro
 daykokuten.com
@@ -2074,9 +2060,7 @@ dc327249518dedf373c8fd8e4496477dd21e8f78.com
 dcacwkw.com
 dd34.ru
 dddd.loan
-ddsss1.xyz
 dean52.top
-dear.actor
 decloudus.com
 decodo.com
 ded-ios.ru
@@ -2095,10 +2079,8 @@ deepstateplatypus.com
 deepwebvpn.net
 default2024.uk
 defencevpn.com
-defendfrienddns.fyi
 defilter.us
 defined.pics
-definitechaos.org
 defyxvpn.com
 dehb.ru
 deli-canzone.com
@@ -2106,21 +2088,15 @@ demonzero.lat
 demonzero.space
 demonzero.xyz
 demy.name
-denstro.ru
 departlamb.com
 departsettle.com
 deproxyserver.com
-deqyutix.online
-der-lino.ru
-derlino.ru
 desertlake.xyz
 desertsand.us
 dev-ngrok.com
 dewassh.net
-dexira.ru
 dfa-appointment.com
 dft-cdn42.net
-dfwdlitu.cc
 dg6.me
 dg6.top
 dgcwbybv.cc
@@ -2131,7 +2107,6 @@ dialertoserver.com
 dicebolsa.com
 dicefan.com
 dichvusocks.net
-difficultycrossing.org
 digibitdesign.com
 digitale-gesellschaft.ch
 digitallink.be
@@ -2343,8 +2318,6 @@ doquanwang.com
 doquickq.com
 dorhex.xyz
 dorockstar.net
-dorsino.ru
-dorsiva.ru
 dorusuo.com
 doshadowsocks.com
 doshandian.com
@@ -2368,7 +2341,6 @@ dotudou.com
 dotunnel.cloud
 dotunnel.net
 dotunnel.pro
-dotunnel.xyz
 dotunnel005.com
 doturbo.net
 dotvpn.com
@@ -2416,13 +2388,9 @@ dp-tr-01.live
 dpbaxcum.com
 dpivpn.help
 dplrkwze.com
-dr-axil.ru
-drablack.tk
 dragonsslayer.com
 drahonn.pro
 dramaticpure.com
-drastin.ru
-draxil.ru
 dreamglowled.com
 dreamoblige.com
 dreamvpn.us
@@ -2431,7 +2399,6 @@ dressnano.com
 driftvibe.cfd
 driftwoodroasters.coffee
 drinksnucleus.com
-drixel.ru
 drmvkcdd.com
 droidvpn.com
 drovanel.ru
@@ -3891,6 +3858,7 @@ helmetreport.com
 help-with-homework.org
 helphideme.com
 helpmehide.net
+helps.help
 hemmulix.eu
 henryrealestatesmart.com
 herbalserver.me
@@ -5680,6 +5648,7 @@ minionisland.com
 miniprox.com
 miniprox.info
 minoritymath.buzz
+miosen.cyou
 mirqenzo.ru
 miscrosoft.info
 miscrosoft.pro
@@ -5874,6 +5843,7 @@ mtagprox.com
 mtdhbqbf.com
 mtkidjkn.com
 mtpro.xyz
+mtproxygram.lol
 mtviewbaptist.org
 mtyrqg.com
 muchproxy.com
@@ -8370,6 +8340,8 @@ tulanek.my
 tunnel4.com
 tunnelbear.com
 tunnelbearvpn.mom
+tunnelmole.com
+tunnelmole.net
 turbo-vpn.live
 turbohide.org
 turboitems.com
