@@ -780,6 +780,7 @@ application-vpnzo.com
 applied-privacy.net
 appsdl.org
 appshost.us
+appstoff.info
 apptopay.xyz
 appxiazai9.com
 aptutorfinder.com
@@ -4182,7 +4183,6 @@ html.cafe
 htrgkuk.com
 httpdns.pro
 httpinjector.com
-httptunnell.ge
 htyrqg.com
 huarenjsq.top
 huayunss.com
@@ -5660,6 +5660,7 @@ mtagprox.com
 mtdhbqbf.com
 mtkidjkn.com
 mtpro.xyz
+mtproxy.mom
 mtproxygram.lol
 mtviewbaptist.org
 mtyrqg.com
@@ -6507,6 +6508,7 @@ povc3.xyz
 povlah.com
 powervpnfree.com
 powq0.xyz
+powvpn.com
 ppdns.cn
 ppeptv.xyz
 ppg01-8lnssk1c.top
@@ -8983,7 +8985,6 @@ wirevpn.app
 wirevpn.cc
 wirlocof.com
 wiseghostapp.com
-withdrawfrog.space
 withoutdns.com
 withstory.net
 witopia.com
@@ -8994,11 +8995,9 @@ wizardgain.com
 wj-letsvpn.com
 wjjrzwkd.com
 wjpiwixm.com
-wkd4zoi1.online
 wkor3yiac4.com
 wlvpn.com
 wmentukv.com
-wmgbrhwo.cc
 wmqbjq.cn
 wnuxuhdj.com
 wobti.com
@@ -9061,11 +9060,7 @@ x2clouda.top
 x6whbmtr.com
 x9fnzrtl4x8pynsf.com
 xalnora.ru
-xaltrio.ru
-xalvino.ru
 xandoriya.ru
-xantiro.ru
-xanvero.ru
 xarra.ru
 xaws40.cn
 xaykmfn.cn
@@ -9076,12 +9071,7 @@ xbsj5632.website
 xbsjssr.online
 xcomplus.com
 xcvpn.me
-xendria.ru
-xendro.ru
 xenergy.cc
-xenorit.xyz
-xenpiro.ru
-xentiro.ru
 xeovo.com
 xerbit.xyz
 xerivon.xyz
@@ -9093,7 +9083,6 @@ xfxssr.com
 xfxssr.me
 xfxvpn.life
 xg8tw7gfox.site
-xgmilhfr.cc
 xgndgeyn.com
 xhj123.xyz
 xhj1314.com
@@ -9173,7 +9162,6 @@ xn--ehqx35aimmzwv.com
 xn--emovpn-u40k507h.com
 xn--fetx50be7pf6w.com
 xn--fhq389femyc1d.com
-xn--fiq626gzzgkv2a.com
 xn--fiqs8s9rjgsr.com
 xn--fiqy4bl9l81zp7skjc1xd.com
 xn--h5q13wxxnwubd52b.org
@@ -9242,12 +9230,9 @@ xn--yun-2t1ej483a.com
 xn--z4vu10a.com
 xn--zuup71g88ae4i.com
 xn--zwwa296b.com
-xolvento.ru
 xomverta.ru
 xonlrnrujxbx.com
-xorniva.ru
 xortbv.cc
-xorvila.ru
 xozoquat.com
 xperienc.com
 xpyyezoi.com
@@ -9287,9 +9272,6 @@ yafzz.net
 yagopick.com
 yahagi.vip
 yakutvpn.site
-yalmoro.ru
-yaltro.ru
-yamekol.my
 yandexapi.online
 yangfan73.net
 yangfanhome.com
@@ -9304,7 +9286,6 @@ yaofan.cc
 yaoyaolingxianclash.com
 yapend.com
 yapwxciu.com
-yarvio.ru
 yavdvcrs.com
 yawdg.net
 yawtt.net
@@ -9324,8 +9305,6 @@ yep.top
 yepfast.cc
 yeqavten.com
 yeralin.net
-yes-taro.ru
-yestaro.ru
 yexmorio.ru
 yfn42.net
 yfntg.net
@@ -9361,8 +9340,6 @@ yncewwf.cn
 yogavpn.com
 yogawiki.in
 yolearn.org
-yomira.ru
-yornivo.ru
 youboost.app
 youboost.click
 youboost.info
@@ -9406,7 +9383,6 @@ ys4.de
 ysbdgef.com
 ysnclks.com
 yswlvip.com
-ytbymaza.cc
 ytcroxyproxy.com
 ytoogw.com
 ytoojc.com
@@ -9417,7 +9393,6 @@ yui.cat
 yujiasu.click
 yundun.icu
 yunfanjiasu.com
-yunitex.xyz
 yuntu.network
 yuntu.pro
 yuyuproxy.com
@@ -9461,13 +9436,6 @@ zatoga.net
 zavento.xyz
 zaziss.com
 zbpxxoy.com
-zburger.top
-zc084.xyz
-zc085.xyz
-zc086.xyz
-zc090.xyz
-zc091.xyz
-zc092.xyz
 zc093.xyz
 zc094.xyz
 zc095.xyz
@@ -9512,28 +9480,21 @@ zenkk0cd.info
 zenmate.com
 zenmatevpn.help
 zenovus.space
-zenparo.ru
-zenpravo.ru
 zenrows.com
 zentuvia.ru
 zenvorixa.xyz
 zenvpn.net
 zenxnet.com
-zerava.ru
 zerivox.xyz
 zerlix.xyz
-zernavo.ru
 zerotier.com
 zerotunnel.com
 zerovpn-app.com
-zestivo.ru
 zfd01-1ujzkyso.top
 zfd02-28hg5ijp.top
 zgcon.online
 zgcvpn.com
 zgfree.info
-zgggvpn.site
-zggvpn.site
 zgproxy.com
 zgproxy.org
 zgvnp.site
@@ -9541,7 +9502,6 @@ zgvnpn.site
 zgvpn.net
 zgvpn.org
 zgvvpn.site
-zh-kuailian.cn
 zhangdong25.cn
 zhengkaiyun.top
 zhkflohs.com
@@ -9571,9 +9531,7 @@ zlpa.loan
 znselxsz.com
 zo0g.site
 zoihvj9m.com
-zolneva.baby
 zonevpn.com
-zontero.ru
 zoog-china-vpn.com
 zoog.info
 zoog.pro
@@ -9598,7 +9556,6 @@ zoogwpn.net
 zoogy.site
 zoogzone.site
 zooog.info
-zopiret.my
 zorlunet.ru
 zorrovpn.io
 zorvian.com
@@ -9614,7 +9571,6 @@ ztv.su
 ztz-100.net
 zugvpn.help
 zulkas.top
-zultrix.ru
 zumuzoig.cc
 zuyg.site
 zwskk3lczgjwug3hzpd.online
@@ -9626,6 +9582,5 @@ zylor.xyz
 zymorae.ru
 zymverto.ru
 zynqorelia.xyz
-zyvola.ru
 zzextyow.com
 zzzzz.click
