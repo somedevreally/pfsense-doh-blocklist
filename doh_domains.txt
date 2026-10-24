@@ -616,7 +616,6 @@ akamai360.net
 akbiuae.com
 akcdn88.com
 ake.net
-akenai.tg
 akkclo11.com
 akkcloud.com
 akkcloud.net
@@ -1377,6 +1376,7 @@ bityun.net
 bityun.org
 biubiuvpn.app
 biuspggy.com
+bixberry.com
 bixlimp.com
 bixnod.com
 bixorn.com
@@ -1759,6 +1759,7 @@ cdnpaopaogou.top
 cdnpaopaoyun.top
 cdnshandian.top
 cdntanz.top
+cdnwave.org
 cdnxiaochai.top
 cdnxingxing.top
 cdnzhuifengdao.top
@@ -3822,6 +3823,7 @@ gqwtlaz.com
 gqxzrqicuqjbjazrzmz4cjlc.online
 graef.in
 graltexo.com
+gram.blog
 grammarhelpers.com
 grandcinemachat.org
 grandjuniperpark.com
@@ -5571,6 +5573,7 @@ lumbertoys.com
 lumenvpn.help
 luminalos.click
 luminalos.shop
+luminaproxy.com
 luminati.io
 luminatinet.com
 lumiproxy.com
@@ -5968,6 +5971,7 @@ mtdhbqbf.com
 mtkidjkn.com
 mtpro.xyz
 mtproxy.mom
+mtproxygram.lol
 mtviewbaptist.org
 mtyrqg.com
 muchproxy.com
@@ -6173,6 +6177,7 @@ netvora.space
 netvpn.app
 netvpn.us
 networkvpnapp.com
+netyield.io
 neuroquantum.me
 newcovumc.org
 newhavenps.org
@@ -9588,7 +9593,6 @@ wolun444.com
 wolun555.com
 wolun7.com
 wolun8.com
-womel.ir
 woodenclock.us
 wordarooz.com
 wordcloud.page
