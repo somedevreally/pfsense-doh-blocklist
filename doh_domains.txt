@@ -299,7 +299,6 @@
 9827015.xyz
 98cjl.com
 98kjc.top
-99-99-63-75.ir
 993999.xyz
 998521.xyz
 99catnet.com
@@ -763,6 +762,7 @@ apiserv.org
 apivpn.io
 aplusvpn.com
 apolloskeep.com
+aportvpn.com
 app-kuailian.cn
 app-letsvpn.com
 app707.org
@@ -862,6 +862,7 @@ aurorajiasu.com
 aurorastork.com
 austim.cloud
 auth-secure-socket.com
+authenticityvpn.xyz
 auto-aufladen.de
 autobilly.com
 autumnbreeze.co
@@ -1252,6 +1253,7 @@ bestrocket.net
 bestrockstar.com
 bestrustapp.com
 bestrusuo.com
+bestsafetyvpn.com
 bestshadowsocks.net
 bestshandian.com
 bestshanyang.com
@@ -1530,6 +1532,8 @@ browser.lol
 browserling.com
 browservpn.online
 brsjk.cn
+bruhvpn.online
+brunex-vpn.com
 brunycraft.xyz
 brunysixl.work
 brwczgvk.com
@@ -1945,11 +1949,14 @@ commons.host
 comnpmjs.com
 comododns.com
 competemine.com
+compilationvpn.xyz
+completionvpn.xyz
 computercar92.com
 computerphone92.com
 comss.one
 conceivingvpn.xyz
 conceptpride.com
+conferencevpn.xyz
 config-24.com
 configuredevice.com
 confinemean.com
@@ -1984,6 +1991,7 @@ core6g25r.info
 corecloak.com
 corehaze.cfd
 corivex.xyz
+corporationvpn.xyz
 corsproxy.io
 cortexgasket.com
 cosmohacker.space
@@ -2120,6 +2128,7 @@ dampmason.com
 dampvortex.com
 dampvulture.com
 daneshvardost.com
+danilovpn.tech
 dansereau.xyz
 dark-proxy.ru
 darkfat.com
@@ -2139,6 +2148,7 @@ datafrenzy.org
 dataimpulse.com
 datapointhq.com
 datapull.cc
+dataroomproxy.xyz
 datatech.icu
 datatowers.net
 dated.cc
@@ -3547,7 +3557,6 @@ garage-van.com
 gardenparty.me
 gas.education
 gasketmelt.com
-gasolino.ir
 gatcha.org
 gatern.info
 gazevale.com
@@ -3790,7 +3799,6 @@ gqwtlaz.com
 gqxzrqicuqjbjazrzmz4cjlc.online
 graef.in
 graltexo.com
-gram.blog
 grammarhelpers.com
 grandcinemachat.org
 grandjuniperpark.com
@@ -4319,7 +4327,6 @@ hosbbq.com
 hoseeel.com
 hosegear.com
 hoseway.com
-hosinjon.ir
 hostless.club
 hotac.ir
 hotbotvpn.com
@@ -4527,6 +4534,7 @@ iosedge.com
 iosequence.online
 iosjiasu.net
 iossync.com
+iosvpnassistance.com
 ioxy.de
 iozoi.cn
 ip4exordir.shop
@@ -4726,7 +4734,6 @@ jnprd.com
 jnxhylc.cn
 jobi.one
 jobjapan.com
-jodaeimanam.ir
 johnbingofelden.org
 johneldenring.lol
 johnineedeep.org
@@ -5294,6 +5301,7 @@ leadcobalt.com
 leafbasin.com
 leafcobra.com
 leafyshshores.com
+leap.se
 learn-math.space
 learnbiologyquiz.win
 learnbla.org
@@ -5318,6 +5326,7 @@ leidian123.com
 leidian123.org
 leidian365.cc
 leidian88.com
+leitingjc.com
 leitingjiasu.net
 leitingvpn1.com
 lelux.fi
@@ -5569,7 +5578,6 @@ mallocapp.com
 mallocprivacy.com
 malusvpn.net
 mamas-garden-market.com
-manazinjamiram.ir
 mangojiasu.com
 mangshe.org
 maning.pro
@@ -5885,7 +5893,6 @@ mtagprox.com
 mtkidjkn.com
 mtpro.xyz
 mtproxy.mom
-mtproxygram.lol
 mtviewbaptist.org
 mtyrqg.com
 muchproxy.com
@@ -6310,6 +6317,7 @@ o-faster.cc
 o1.lt
 o1cjxjqe.com
 oakdenet.com
+oasisxvpn.com
 obedientsoft.com
 obereza.ru
 obeshbarmak.kz
@@ -7274,7 +7282,6 @@ rcvqvgo.com
 rd-service.moscow
 readoverlook.com
 realityvpn.com
-reallygood.ir
 realpurejs.com
 realpurevpn.com
 realvpn.io
@@ -7511,6 +7518,7 @@ schoolooks.com
 schoolsprepared.org
 schoolverification.me
 schoolwebproxy.com
+schooxy.com
 schulhelfer-mathe-deutsch.de
 sciencenews.cc
 sciences.run
@@ -7592,11 +7600,9 @@ server3233.com
 servergo.pw
 serverhoya.com
 serverssh.net
-servertala.ir
 servis4u.top
 serviseapi.com
 sescloud.club
-setado.ir
 setupvpn.com
 sevengain.com
 sf-helper.com
@@ -7660,7 +7666,6 @@ shiftpebble.com
 shiftvertex.com
 shiftvocal.com
 shihui992.com
-shipboard.ir
 shitblocker.com
 shopcube.pro
 shopmirrorless.xyz
@@ -7974,7 +7979,6 @@ stkv.space
 stolitomson.com
 stolitomsonvpn.com
 stop-block.com
-storagexx.space
 storefront.ink
 storkswift.com
 stormnighter.com
@@ -8112,6 +8116,7 @@ switchvpn.com
 switchvpn.net
 switchyomega.org
 swordvpn.com
+swoshsvpn.com
 swwsmqk.com
 sxkuailian.cfd
 sy168.site
@@ -8360,7 +8365,6 @@ tor2web.it
 tor2web.org
 tor2web.ru
 tor2web.to
-torbad.ir
 torguard.biz
 torguard.co
 torguard.com
@@ -8589,6 +8593,7 @@ unblocked.biz
 unblocked.cloud
 unblocked.foo
 unblocked.help
+unblocked.how
 unblocked.id
 unblocked.love
 unblocked.racing
@@ -8596,6 +8601,7 @@ unblocked.soy
 unblocked.surf
 unblocked2.cc
 unblocked2.download
+unblocked2.icu
 unblocked2.party
 unblocked2.vip
 unblockedbrowser.com
@@ -8664,6 +8670,7 @@ unlocklab.io
 unmoor.com
 unn8j8cy.com
 unp.im
+unrestrict.me
 unrestrictedsurf.com
 unrestricter.com
 unrestrictor.com
@@ -8683,6 +8690,7 @@ uproxy.dev
 uproxy.io
 uproxy.me
 uproxy.online
+uproxy.soy
 uproxy.top
 uproxy.vip
 uproxy.xyz
@@ -8954,6 +8962,7 @@ vortexvpn.me
 vortexwolf.com
 vova.loan
 vovbap.com
+vovkavpn.com
 vovnod.com
 vovslurp.com
 voyagevpn.xyz
@@ -9750,7 +9759,6 @@ xvtest.net
 xwnybcti.com
 xwvvwnip.com
 xxcloud.xyz
-xxmatrixx.top
 xxvv.loan
 xyherb.xyz
 xzpjmrpb.com
