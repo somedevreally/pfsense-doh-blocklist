@@ -2163,6 +2163,7 @@ datadonkey.app
 dataflowers.net
 datafrenzy.org
 dataimpulse.com
+dataimpulse.net
 datapointhq.com
 datapull.cc
 dataroomproxy.xyz
@@ -2292,7 +2293,6 @@ dnswarden.com
 dnswebvsn.com
 dnwkts.com
 do-39574-tr.xyz
-do-not-block.store
 do789.net
 do91.net
 doabc.net
@@ -3419,6 +3419,7 @@ frayquantum.com
 fraytether.com
 fredic.us
 free-planet-vpn.com
+free-planet-vpn.net
 free-proxy.cz
 free-proxy.xyz
 free-proxyserver.com
@@ -3693,6 +3694,7 @@ ghdysd.xyz
 ghostbrowser.com
 ghostmarsh.com
 ghostpath.com
+ghostproxies.net
 giantproxy.xyz
 gibblets.top
 gifttrees.us
@@ -3952,6 +3954,7 @@ happykuailian.net
 harbor-lane-bistro.com
 hardenglish.buzz
 hardmath.buzz
+harmonygrandeurproxy.com
 hartfordps.org
 harvest-moon-market.com
 harvestinflate.com
@@ -4331,6 +4334,7 @@ homemail.info
 homeproxy.com
 homeproxy.net
 homes999.com
+homesetupvpn.online
 homevpn.eu
 homevpn.info
 homevpn.org
@@ -4961,6 +4965,7 @@ kkkkk.click
 klickhub.shop
 klimora.ru
 klnqgidu.cc
+klpc-letsvpn.com
 klvpn-app.com
 klvpn-pc.com
 klvpn.net
@@ -5347,6 +5352,7 @@ learnjapanfilms.cc
 learnrisepro.com
 learnschoolfuncool.win
 lecturestay.com
+ledns.eu
 leecurrylawfirm.com
 leekemx.com
 leevpn.help
@@ -5615,6 +5621,7 @@ maintainbrain.us
 mak-na.ru
 malanser.ru
 maleyu.org
+malinavpn.com
 mallocapp.com
 mallocprivacy.com
 malusvpn.net
@@ -5973,6 +5980,7 @@ my1337jog.run
 my52.my
 myadg.ru
 myatris.sbs
+myau-vpn.online
 mycheapfqvpnlist.com
 mycheapladderlist.com
 mycheapvpnlist.com
@@ -6171,6 +6179,7 @@ nexitallyig.com
 nexitallyjc.com
 nexitallysafe.com
 nexotari.hair
+nexproxys.com
 nexravom.hair
 nextlink.shop
 nexusapi.website
@@ -7111,6 +7120,7 @@ proxyturbo.com
 proxyvpn.eu
 proxyvpnserver.com
 proxyway.com
+proxywebsite.xyz
 proxywindow.com
 proxywing.com
 proxyz.online
@@ -8413,7 +8423,6 @@ topcenter.one
 topman8848.com
 toppal.tech
 toppeopleverse.top
-topproxt.asia
 topsecure.info
 topspeedvpn.homes
 topstudio.one
@@ -8817,6 +8826,7 @@ v2fast.cc
 v2nodes.com
 v2ny.cc
 v2ny.co
+v2ny.de
 v2ny.mom
 v2ny.net
 v2ny.one
@@ -8940,6 +8950,7 @@ vertexpiston.com
 veryeducationaltrust.lat
 veryinterest.com
 veta.best
+vexiro.ru
 vexkif.com
 vexmoriano.xyz
 vextuproxy.cloud
@@ -9275,6 +9286,7 @@ vpnrapid.net
 vpnrcmd.com
 vpnreactor.com
 vpnreactor.net
+vpnreview.xyz
 vpnrice.com
 vpnru.help
 vpnrussia.help
@@ -9294,6 +9306,7 @@ vpnshazam.com
 vpnshieldapp.com
 vpnside.com
 vpnsites.com
+vpnslotgacor.com
 vpnspa.com
 vpnspeaks.xyz
 vpnstatus.site
@@ -9303,6 +9316,7 @@ vpnsuper.app
 vpnsuper.com
 vpnsurfguard.com
 vpnt.help
+vpntarget.xyz
 vpnteam.store
 vpntelegram.info
 vpntoggle.com
@@ -9990,6 +10004,7 @@ zadmin.dev
 zagbit.com
 zakaria.website
 zalmos.com
+zangyovpn.xyz
 zanverom.study
 zapov2.xyz
 zapp-a-weasel.live
@@ -10150,6 +10165,7 @@ ztv.su
 ztz-100.net
 zugvpn.help
 zulkas.top
+zuravpn.com
 zuyg.site
 zwskk3lczgjwug3hzpd.online
 zwyr157wwiu6eior.com
