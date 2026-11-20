@@ -52,7 +52,6 @@
 123xhj.com
 12vpn.help
 12vpx.com
-13-905-33-84.ir
 1314159.xyz
 1323.world
 1334b71d15d22d1479651dd0773cf3cdf2a0abfd.com
@@ -2811,6 +2810,7 @@ edgecache.online
 edgecache.xyz
 edgedcircles.com
 edgehub.fyi
+edgespindle.org
 edgevpn.help
 edgy-dns.com
 editingvpn.xyz
@@ -4585,6 +4585,7 @@ iohnhbly.com
 iomlelco.com
 ion.pm
 ionprox.com
+ionvpn.online
 iopgn.com
 iopl.xyz
 iosedge.com
@@ -5607,7 +5608,6 @@ luxerno.xyz
 luxvpn.cc
 luzubu.com
 lvchavpn.click
-lwww.ir
 ly-1.net
 lyfesinks.com
 lynksignal.com
@@ -6412,6 +6412,7 @@ obereza.ru
 obeshbarmak.kz
 obfusgated.com
 obhodvpn.help
+objectpeak.org
 obokicygo.tattoo
 obscura.net
 obscurenamelab.shop
@@ -6601,6 +6602,7 @@ pafcaw.com
 paimist.com
 paladinvpn.com
 paleoy.com
+paltronicsvpn.com
 pancakes.group
 pandaexpert.xyz
 pandapow.co
@@ -7003,6 +7005,7 @@ proxme.org
 proxora.io
 proxpn.com
 proxssl.com
+proxtstar.live
 proxy-123.com
 proxy-bypass.com
 proxy-cheap.com
@@ -9686,7 +9689,6 @@ wuxx.store
 www-kuaifan.cn
 www-letsvpn-app.com
 www-letsvpn.com
-www1www.ir
 wxxs290.com
 wycloudjs.com
 wyrhub.xyz
